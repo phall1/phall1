@@ -8,7 +8,7 @@
   <a href="https://github.com/phall1?tab=repositories&type=source">all source</a>
 </p>
 
-i write terminal software and developer tools. mostly rust and zig.
+vibes all the way down 
 
 - [phux](https://github.com/phall1/phux): terminal multiplexer
 - [token-tach](https://github.com/phall1/token-tach): macOS menu bar app for AI usage
