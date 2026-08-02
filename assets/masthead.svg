@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
   <title id="title">Patrick Hall</title>
-  <desc id="desc">Software for humans, infrastructure for agents. Terminals, agents, and systems.</desc>
+  <desc id="desc">Patrick Hall. Terminals, networks, and systems.</desc>
 
   <rect width="1200" height="420" fill="#131316"/>
   <rect x="1" y="1" width="1198" height="418" fill="none" stroke="#2c2c31" stroke-width="2"/>
@@ -13,9 +13,9 @@
 
   <g fill="#6d6d72" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" letter-spacing="2">
     <text x="40" y="43">PHALL.IO / GITHUB</text>
-    <text x="1160" y="43" text-anchor="end">BUILDING IN PUBLIC</text>
-    <text x="40" y="387">SOFTWARE FOR HUMANS / INFRASTRUCTURE FOR AGENTS</text>
-    <text x="1160" y="387" text-anchor="end">EST. 2017</text>
+    <text x="1160" y="43" text-anchor="end">PATRICK HALL</text>
+    <text x="40" y="387">RUST / ZIG / GO / TYPESCRIPT</text>
+    <text x="1160" y="387" text-anchor="end">PHALL1</text>
   </g>
 
   <g fill="#f2f2f4" font-family="Georgia, 'Times New Roman', serif" font-weight="400" letter-spacing="-5">
@@ -25,9 +25,8 @@
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" letter-spacing="3">
     <text x="865" y="147" fill="#f2f2f4">TERMINALS</text>
-    <text x="865" y="205" fill="#f2f2f4">AGENTS</text>
+    <text x="865" y="205" fill="#f2f2f4">NETWORKS</text>
     <text x="865" y="263" fill="#f2f2f4">SYSTEMS</text>
-    <text x="865" y="310" fill="#6d6d72" font-size="13" letter-spacing="1">RUST / ZIG / GO / TYPESCRIPT</text>
   </g>
 
   <g fill="#d9d9dc">
