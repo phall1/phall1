@@ -8,16 +8,10 @@
   <a href="https://github.com/phall1?tab=repositories&type=source">all source</a>
 </p>
 
-<p align="center">tools for terminals, networks, and the systems beneath them.</p>
+i write terminal software and developer tools. mostly rust and zig.
 
-<br>
-
-| | | |
-|:--|:--|:--|
-| `01` | **[phux](https://github.com/phall1/phux)** | terminal control plane |
-| `02` | **[token-tach](https://github.com/phall1/token-tach)** | macOS instrument for AI usage |
-| `03` | **[phui](https://github.com/phall1/phui)** | GitHub, in the terminal |
-| `04` | **[cyrs](https://github.com/phall1/cyrs)** | GQL compiler front-end |
-| `05` | **[fella](https://github.com/phall1/fella)** | network identity and traffic containment |
-
-<p align="right"><a href="https://phux.phall.io/embed">open shell -&gt;</a></p>
+- [phux](https://github.com/phall1/phux): terminal multiplexer
+- [token-tach](https://github.com/phall1/token-tach): macOS menu bar app for AI usage
+- [phui](https://github.com/phall1/phui): GitHub TUI
+- [cyrs](https://github.com/phall1/cyrs): Cypher and GQL compiler front-end
+- [fella](https://github.com/phall1/fella): Linux network containment
