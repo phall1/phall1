@@ -50,7 +50,7 @@ brew install --cask phux-cockpit token-tach phbv
 
 ### also
 
-- [phui](https://github.com/phall1/phui) — a GitHub TUI for PRs, issues, diffs, and Actions. A fork of [@kitlangton/ghui](https://github.com/kitlangton/ghui) that publishes standalone binaries through the tap, so there's no Bun or npm at runtime.
+- [phui](https://github.com/phall1/phui) — my fork of [**ghui**](https://github.com/kitlangton/ghui) by [Kit Langton](https://github.com/kitlangton), which is his tool and worth your star. I've added an Actions dashboard, Inbox/Stars/Projects surfaces, and handoff into phux, and I ship standalone binaries through the tap.
 - [opentui-browser](https://github.com/phall1/opentui-browser) — a Chromium surface for OpenTUI over the Kitty graphics protocol
 - [opencode-worktree](https://github.com/phall1/opencode-worktree) — Claude Code-style `-w` worktrees for OpenCode
 - [silent-weights](https://github.com/phall1/silent-weights) — embedding and extracting payloads from model weights, for AI supply-chain security research
