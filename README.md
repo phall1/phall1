@@ -1,16 +1,6 @@
-<p align="center">
-  <img src="./assets/masthead.svg" alt="Patrick Hall. Terminals, networks, and systems." width="100%">
-</p>
-
-<p align="center">
-  <a href="https://phall.io">phall.io</a>&nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="https://phall.io/writing">writing</a>&nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="https://github.com/phall1?tab=repositories&type=source">all source</a>
-</p>
-
----
-
 Terminals, and the machinery around them. Mostly Rust, Zig, and Go.
+
+[phall.io](https://phall.io) &nbsp;·&nbsp; [writing](https://phall.io/writing)
 
 ### terminals
 
@@ -70,4 +60,4 @@ cargo install cyrs-cli
 - [silent-weights](https://github.com/phall1/silent-weights) — hiding payloads in model weights, for supply-chain research
 - [dotfiles](https://github.com/phall1/dotfiles) — chezmoi, plus a `dot-doctor`
 
-<p align="center"><sub><code>vibes all the way down</code></sub></p>
+<sub><code>vibes all the way down</code></sub>
