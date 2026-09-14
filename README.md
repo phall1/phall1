@@ -1,5 +1,3 @@
-i have effect psychosis
-
 [phall.io](https://phall.io) &nbsp;·&nbsp; [writing](https://phall.io/writing)
 
 ### terminals
