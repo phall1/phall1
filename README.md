@@ -1,7 +1,5 @@
-I build bot software with bots
+human / bot ergonomics 
 
 [phall.io](https://phall.io)
 
 [phux.sh](https://phux.sh)
-
-nomemes
